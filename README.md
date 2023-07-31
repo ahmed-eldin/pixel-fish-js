@@ -1,5 +1,6 @@
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+<img width="1135" alt="Screenshot 2023-07-31 at 6 24 04 PM" src="https://github.com/ahmed-eldin/pixel-fish-js/assets/111728755/998217af-fbd4-4617-9a7c-fb6b307b83ae">
+
 
 
 # Pixel Fish JavaScript App
