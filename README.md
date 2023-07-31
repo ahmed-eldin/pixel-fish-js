@@ -14,7 +14,7 @@ The Pixel Fish JavaScript App is a fun and mesmerizing application that allows y
 2.) Rapid pixel generation for an engaging visual experience.
 
 3.) Colorful and creative representation of a fish.
-## How to Play
+## How to Use
 
 1.) Clone this repository to your local machine.
 
